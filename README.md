@@ -1,2 +1,2 @@
 # debian
-[shh](http://iantonov.me/page/ustanovka-ssh-v-debian-8)
+[установка shh](http://iantonov.me/page/ustanovka-ssh-v-debian-8)
